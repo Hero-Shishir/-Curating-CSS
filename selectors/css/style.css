@@ -1,0 +1,20 @@
+body {
+    font-size: 20px;
+    font-family: monospace;
+}
+
+h1, h2  {
+    color: violet;
+}
+p { 
+    color: red;
+}
+
+.highlight {
+    text-transform: uppercase;
+    background-color: gold;
+}
+
+.gray {
+    color: gray;
+}
